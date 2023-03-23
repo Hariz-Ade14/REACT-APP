@@ -1,1 +1,1 @@
-LEARNING REACT USING CRA AND VITE. Let's get started!
+LEARNING REACT. Let's get started!
